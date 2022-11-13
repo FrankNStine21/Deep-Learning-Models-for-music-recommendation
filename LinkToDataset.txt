@@ -1,0 +1,8 @@
+Links for datasets used:
+
+1. Free Music Archive (small) Dataset
+Link: https://github.com/mdeff/fma
+
+2. Processed Spectrograms for FMA dataset
+Link: https://www.kaggle.com/datasets/giuseppemagazz/fma-mel-new
+
