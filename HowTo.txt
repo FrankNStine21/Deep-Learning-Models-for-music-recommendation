@@ -1,0 +1,13 @@
+HowToFile:
+
+All python files and saved models must be in the same directory,
+as well as the FMA dataset. 
+
+The dataset is provided on kaggle structred as:
+
+mel/mel/(*genres)
+
+For training, the directories for the flow_from_directory functions
+can be easily changed at the top of the file.
+
+For predicting, any path can be specified for the img variable
